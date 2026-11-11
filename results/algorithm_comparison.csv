@@ -1,0 +1,4 @@
+rank_by_accuracy,algorithm,accuracy_percent,weighted_precision_percent,weighted_recall_percent,weighted_f1_percent,training_time_seconds,prediction_time_seconds
+1,KNN,58.33,57.08,58.33,54.62,0.0072,0.004
+2,Logistic Regression,58.33,50.4,58.33,50.96,0.0157,0.0016
+3,Multinomial Naive Bayes,54.17,42.86,54.17,46.65,0.0069,0.0021
